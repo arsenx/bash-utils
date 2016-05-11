@@ -1,3 +1,9 @@
+###########################################
+# [Colors]
+# source this-file.sh
+# usage: e_success "Success text to echo here"
+###########################################
+
 # Colors
 purple=$(tput setaf 171)
 red=$(tput setaf 1)
