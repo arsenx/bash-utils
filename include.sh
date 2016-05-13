@@ -8,4 +8,4 @@ SCRIPT_HOME_DIR=$(dirname ${BASH_SOURCE[0]})
 # Modules to include
 . $SCRIPT_HOME_DIR/modules/colors.sh
 . $SCRIPT_HOME_DIR/modules/root.sh
-. $SCRIPT_HOME_DIR/modules/exists.sh
+. $SCRIPT_HOME_DIR/modules/status.sh
