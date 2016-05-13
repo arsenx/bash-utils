@@ -9,3 +9,4 @@ SCRIPT_HOME_DIR=$(dirname ${BASH_SOURCE[0]})
 . $SCRIPT_HOME_DIR/modules/colors.sh
 . $SCRIPT_HOME_DIR/modules/root.sh
 . $SCRIPT_HOME_DIR/modules/status.sh
+. $SCRIPT_HOME_DIR/modules/text.sh
