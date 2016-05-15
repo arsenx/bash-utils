@@ -33,7 +33,7 @@ e_success()
 
 e_info()
 {
-	printf "${green}ℹ %s${reset}\n" "$@"
+	printf "${green}ℹ: %s${reset}\n" "$@"
 }
 
 e_error()
