@@ -35,6 +35,7 @@ e_info()
 {
 	printf "${green}ℹ %s${reset}\n" "$@"
 }
+
 e_error()
 {
 	printf "${red}✖ %s${reset}\n" "$@"
