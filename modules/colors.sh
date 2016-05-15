@@ -58,5 +58,5 @@ e_bold()
 
 e_note()
 {
-	printf "${underline}${bold}${blue}Note:${reset}  ${blue}%s${reset}\n" "$@"
+	printf "${underline}${bold}${blue}Note:${reset}  ${blue}%b${reset}\n" "$@"
 }
